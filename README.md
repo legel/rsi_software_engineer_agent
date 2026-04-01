@@ -144,7 +144,7 @@ Error entry format:
 **Why:** [Root cause]
 ```
 
-Fatal errors and mandatory rules, however specialized, must be enforced through the primary skill.  
+Fatal errors and mandatory rules must be taught through the primary skill.  
 Never allow agents to make mistakes without learning lessons.
 
 <br>
