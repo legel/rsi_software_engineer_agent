@@ -1,4 +1,4 @@
-# Recursive Self-Improving Software Engineers
+# Recursive Self-Improving Software Engineering Agents
 
 A framework for self-improving AI software engineering agents in Claude Code. Below are battle-tested principles and practices for accelerated software engineering.
 
