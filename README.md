@@ -68,7 +68,7 @@ mode = sys.argv[1] if len(sys.argv) > 1 else "all"
 files = ["CLAUDE.md"]
 if mode == "skill":                                                                                                                                 
     files = []                                                                                                                                    
-files.append(os.path.join("skills", "primary", "SKILL.md"))
+files.append(os.path.join(".claude", "skills", "primary", "SKILL.md"))
 
 for rel_path in files:                                                                                                                              
     path = os.path.join(base, rel_path)
@@ -87,7 +87,7 @@ A skill is a markdown file, contained in a `skills` directory, like so:
 
 ```
 project_root/
-└── skills/
+└── .claude/skills/
     ├── primary/SKILL.md      # Primary skill injected into every session
     ├── database/SKILL.md     # Secondary skill for database interactions
     ├── api_x/SKILL.md        # Secondary skill for API called X
