@@ -167,4 +167,4 @@ Setup Checklist:
 
 <br>
 
-_**This [recursive self-improvement](https://en.wikipedia.org/wiki/Recursive_self-improvement) framework leads to increasingly fast, effective, and reliable software engineering.**_
+_**[Recursive self-improvement](https://en.wikipedia.org/wiki/Recursive_self-improvement) leads to increasingly fast, effective, and reliable software engineering.**_
